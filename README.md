@@ -22,12 +22,14 @@ AngularJS->speed (faster initial load, hange detection and rendering), modern (c
 ##### Module 1-
 ###### Anatomy of an app
 - Set of components (comprised of templates)
-    - Template
-    - Class
+    - Template (HTML)
+    - Class (Code associated with the view)
         - Properties
         - Methods
     - Metadata
 - Services across the components
+
+Angular modules - At least one root that consolidate the components together
 
 
 ##### Module 2-
