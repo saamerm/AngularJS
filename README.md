@@ -20,7 +20,15 @@ Angular makes HTML expressive, contains data binding, promotes mmodularity, and 
 AngularJS->speed (faster initial load, hange detection and rendering), modern (classes, modules, directives), simplified (easier to learn, simple binding), productivity 
 
 ##### Module 1-
-####### Anatomy of an app
+###### Anatomy of an app
+- Set of components (comprised of templates)
+    - Template
+    - Class
+        - Properties
+        - Methods
+    - Metadata
+- Services across the components
+
 
 ##### Module 2-
 
