@@ -1,11 +1,11 @@
 # AngularJS
 Created this repository to retain tutorials taken to learn AngularJS
 
-*Angular JS is a JS framework
-*for building client side applications
-*using HTML, CSS and JS
+* Angular JS is a JS framework
+* for building client side applications
+* using HTML, CSS and JS
 
-###Part 1-Pluralsight Angular: Getting Started by Deborah Kurata
+### Part 1-Pluralsight Angular: Getting Started by Deborah Kurata
 
 Angular patterns for components, modules, patterns and services->
 - Components, 
@@ -19,9 +19,9 @@ Angular makes HTML expressive, contains data binding, promotes mmodularity, and 
 
 AngularJS->speed (faster initial load, hange detection and rendering), modern (classes, modules, directives), simplified (easier to learn, simple binding), productivity 
 
-#####Module 1-
+##### Module 1-
 Anatomy of an app
 
-#####Module 2-
+##### Module 2-
 
-###Part 2-Pluralsight Play by Play: AngularJS Application Design with John Papa and Ward Bell
+### Part 2-Pluralsight Play by Play: AngularJS Application Design with John Papa and Ward Bell
