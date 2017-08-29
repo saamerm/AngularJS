@@ -48,7 +48,11 @@ Files of base template
 #### Start
 - Clone deborah's repo for angular getting started
 - Open VS Code, then go to File-> Open-> Deborah's folder
-- Then go to View->Integrated Terminal
+- Then go to View->Integrated Terminal to open the terminal
+- Type "npm install" and hit enter to install all the packages needed
+- Type npm start to build the page and launch the browser
+- Go to src->app->shared->app.component.html and change the text
+
 
 ### Module- Introduction to Components-
 
