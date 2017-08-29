@@ -5,7 +5,7 @@ Created this repository to retain tutorials taken to learn AngularJS
 * for building client side applications
 * using HTML, CSS and JS
 
-### Part 1-Pluralsight Angular: Getting Started by Deborah Kurata
+## Part 1-Pluralsight Angular: Getting Started by Deborah Kurata
 
 Angular patterns for components, modules, patterns and services->
 - Components, 
@@ -19,8 +19,8 @@ Angular makes HTML expressive, contains data binding, promotes mmodularity, and 
 
 AngularJS->speed (faster initial load, hange detection and rendering), modern (classes, modules, directives), simplified (easier to learn, simple binding), productivity 
 
-##### Module 1-
-###### Anatomy of an app
+### Module- First things first-
+#### Anatomy of an app
 - Set of components (comprised of templates)
     - Template (HTML)
     - Class (Code associated with the view)
@@ -37,6 +37,9 @@ npm was installed at
    /usr/local/bin/npm
 Make sure that /usr/local/bin is in your $PATH.
 
-##### Module 2-
+Files
+github.com/deborahk/Angular-GettingStarted
 
-### Part 2-Pluralsight Play by Play: AngularJS Application Design with John Papa and Ward Bell
+### Module- Introduction to Components-
+
+## Part 2-Pluralsight Play by Play: AngularJS Application Design with John Papa and Ward Bell
