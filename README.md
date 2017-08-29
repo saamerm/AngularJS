@@ -30,7 +30,12 @@ AngularJS->speed (faster initial load, hange detection and rendering), modern (c
 - Services across the components
 
 Angular modules - At least one root that consolidate the components together
-
+* Installation comments
+Node.js was installed at
+   /usr/local/bin/node
+npm was installed at
+   /usr/local/bin/npm
+Make sure that /usr/local/bin is in your $PATH.
 
 ##### Module 2-
 
