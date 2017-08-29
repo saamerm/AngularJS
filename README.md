@@ -38,7 +38,7 @@ npm was installed at
 Make sure that /usr/local/bin is in your $PATH.
 
 Files
-github.com/deborahk/Angular-GettingStarted
+github.com/DeborahK/Angular-GettingStarted
 
 ### Module- Introduction to Components-
 
