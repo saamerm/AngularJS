@@ -52,7 +52,7 @@ Files of base template
 - Type "npm install" and hit enter to install all the packages needed
 - Type npm start to build the page and launch the browser
 - Go to src->app->shared->app.component.html and change the text
-
+-  Stop it using Ctrl + C (on Mac)
 
 ### Module- Introduction to Components-
 
