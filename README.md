@@ -37,8 +37,18 @@ npm was installed at
    /usr/local/bin/npm
 Make sure that /usr/local/bin is in your $PATH.
 
-Files
-github.com/DeborahK/Angular-GettingStarted
+Files of base template
+- github.com/DeborahK/Angular-GettingStarted
+- has all the basic files you need
+- files of the program can be found in APM-Start->src->app-> ALL the files here
+- main folder configuration files are also called boiler plate files
+    - package.json contains all the dependencies
+    - scripts seems important
+    
+#### Start
+- Clone deborah's repo for angular getting started
+- Open VS Code, then go to File-> Open-> Deborah's folder
+- Then go to View->Integrated Terminal
 
 ### Module- Introduction to Components-
 
